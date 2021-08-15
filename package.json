@@ -1,0 +1,21 @@
+{
+    "name": "entropy",
+    "displayName": "entropy",
+    "description": "Entropy dark mode themode.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Entropy Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Entropy Theme-color-theme.json"
+            }
+        ]
+    }
+}
