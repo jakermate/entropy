@@ -2,20 +2,40 @@
 	"name": "Entropy",
 	"type": "dark",
 	"colors": {
+
+		// Editors
 		"editor.background": "#1b1c1d",
 		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
+
+		// Status Bar
 		"statusBar.background": "#6f00ff",
+		
+		// Sidebar
 		"sideBarTitle.foreground": "#bbbbbb",
 		"sideBar.foreground": "#dcd6e2",
 		"sideBar.background": "#121213",
-		"button.foreground": "#d4c9e0",
 		"textLink.foreground": "#4bf12e",
-		"button.background": "#5921a3",
-		"activityBar.background": "#121213",
-		"menu.background": "#121213"
 		
+		// Buttons
+		"button.foreground": "#d4c9e0",
+		"button.background": "#5921a3",
+		
+		// Menus
+		"menu.background": "#121213",
+		
+		// Activity Bar
+		"activityBarBadge.background": "#007acc",
+		"activityBar.background": "#121213",
+		"activityBar.activeBorder": "#a866ff",
+		"activityBar.activeFocusBorder": "#ffffff",
+		"activityBar.border": "#2c2c2c",
+		"activityBar.activeBackground": "#424242",
+		
+		// Misc
+
 	},
+
+	// Syntax
 	"tokenColors": [
 		{
 			"name": "Comment",

@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Entropy Theme",
+                "label": "Entropy",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Entropy Theme-color-theme.json"
+                "path": "./themes/Entropy-color-theme.json"
             }
         ]
     }
