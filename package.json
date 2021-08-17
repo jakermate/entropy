@@ -1,7 +1,7 @@
 {
     "name": "entropy",
     "displayName": "entropy",
-    "description": "Entropy dark mode themode.",
+    "description": "Entropy dark mode theme for Visual Studio Code.",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.59.0"
