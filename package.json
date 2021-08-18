@@ -1,8 +1,9 @@
 {
     "name": "entropy",
-    "displayName": "entropy",
+    "publisher": "jakerm",
+    "displayName": "Entropy",
     "description": "Entropy dark mode theme for Visual Studio Code.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.59.0"
     },
