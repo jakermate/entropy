@@ -12,7 +12,7 @@
     },
     "displayName": "Entropy",
     "description": "Entropy dark mode theme for Visual Studio Code.",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "engines": {
         "vscode": "^1.59.0"
     },
