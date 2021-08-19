@@ -1,6 +1,7 @@
 {
     "name": "entropy",
     "publisher": "jakerm",
+    "icon": "icon.png",
     "author": {
         "name": "Jake Miller",
         "url": "https://github.com/jakermate"
