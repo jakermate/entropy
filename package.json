@@ -1,6 +1,14 @@
 {
     "name": "entropy",
     "publisher": "jakerm",
+    "author": {
+        "name": "Jake Miller",
+        "url": "https://github.com/jakermate"
+    },
+    "repository": {
+        "type": "github",
+        "url": "https://github.com/jakermate/entroy.git"
+    },
     "displayName": "Entropy",
     "description": "Entropy dark mode theme for Visual Studio Code.",
     "version": "0.0.2",
